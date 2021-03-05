@@ -269,6 +269,35 @@ h1{
 div#bloc-8.bloc.bgc-atomic-tangerine.d-bloc{
     color:black;
 }
+.presentation{
+    text-justify: auto;
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.content-citation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.citation{
+    font-size: 14px!important;
+    font-weight: 600!important;
+}
+.citation-author{
+    font-size: 10px!important;
+}
+.title2{
+    width: 100%;
+    text-shadow: 1px 1px 2px rgb(48, 48, 48), 0 0 1em rgba(243, 151, 108, 0.8), 0 0 0.2em rgba(243, 151, 108, 0.1);
+    font-weight:600;
+    font-size: 25px!important;
+    
+}
 p.text-center.white{
     color:black;
 }
@@ -305,15 +334,74 @@ a.ltc-white.bold-link:hover {
         box-shadow: 0px 0 10px 15px #F3976C;
         background: rgba(160, 111, 111, 0.1);
       }
-@media (max-width: 768px) {
+.dimension{
+    width: 100%;
+}
+.info{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    text-shadow: 1px 1px 2px rgb(48, 48, 48), 0 0 1em rgba(243, 151, 108, 0.8), 0 0 0.2em rgba(243, 151, 108, 0.1);
+}
+.def{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 0 30px 0;
+    list-style: none;
+    margin-left: -40px;
+}
+.def>li{
+    margin-left: 10px ;
+    text-shadow: 1px 1px 2px rgb(48, 48, 48), 0 0 1em rgba(243, 151, 108, 0.8), 0 0 0.2em rgba(243, 151, 108, 0.1);
+}
+
 .space {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     width: auto;
-    }
+}
+.footer-title{
+    font-weight:600;
+}
+.row-pad{
+    padding-left: 15px;
+}
+.footer-color{
+    color:black!important;
+    list-style: none;
+
 }
 /*correction*/
+/*correction2*/
+.content-li{
+    display:flex;
+    flex-direction: column;
+    margin-right: 100px!important;
+}
+.content-logo{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.logo-title{
+    width: 15%;
+    padding-top: 15px;
+}
+.content-desc{
+    margin-bottom:15px;
+}
+@media (max-width: 750px){
+.logo-title{
+    width: 25%!important;
+}
+}
+/*correction2*/
 .voffset {
     margin-top: 30px;
 }

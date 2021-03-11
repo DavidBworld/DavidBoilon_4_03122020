@@ -349,6 +349,9 @@ a.ltc-white.bold-link:hover {
     margin-top: 30px;
     text-shadow: 1px 1px 2px rgb(48, 48, 48), 0 0 1em rgba(243, 151, 108, 0.8), 0 0 0.2em rgba(243, 151, 108, 0.1);
 }
+.info-title{
+    text-align: center;
+}
 .def{
     display:flex;
     flex-direction: row;
@@ -433,7 +436,7 @@ a.ltc-white.bold-link:hover {
 .text-center1{
     margin-bottom: 55px;
     color:black!important;
-    font-size:11px!important;
+    font-size:14px!important;
     text-align: center;
 }
 
@@ -858,7 +861,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {

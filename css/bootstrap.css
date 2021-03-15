@@ -1984,19 +1984,6 @@ pre code {
     margin-right: auto;
     margin-left: auto
 }
-
-@media (min-width:768px) {
-    .container {
-        width: 750px
-    }
-}
-
-@media (min-width:992px) {
-    .container {
-        width: 970px
-    }
-}
-
 @media (min-width:1200px) {
     .container {
         width: 1170px
@@ -2322,7 +2309,7 @@ pre code {
         width: 58.33333333%
     }
     .col-sm-6 {
-        width: 50%
+        width: 100%
     }
     .col-sm-5 {
         width: 41.66666667%

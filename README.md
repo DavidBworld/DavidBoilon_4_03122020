@@ -1,9 +1,9 @@
 # Projet n°4 - Parcours Développeur Web - OpenClassrooms
 ## Optimisez un site web existant
 
-Ce projet est réalisé dans le cadre du parcours **Développeur Web** du site [OpenClassrooms](https://openclassrooms.com/ "OpenClassrooms")
+Ce projet est réalisé dans le cadre du parcours **Développeur Web** d'Openclassrooms
 
-![Logo ChouetteAgence](img/logo/png)
+![homepage](https://github.com/DavidBworld/DavidBoilon_4_03122020/blob/main/img/la-chouette-agence.png)
 
 ### Documentations
 * [Maquette READYMADE du site à optimiser](docs/Starting+website.zip)
@@ -39,7 +39,7 @@ Sans objet
  * Optimiser le référencement d'un site web
 
 ### Résultat de l'audit :
-Les résultats sont consultables [ici](docs/audit)
+Les résultats sont consultables [ici](https://github.com/DavidBworld/DavidBoilon_4_03122020/tree/main/Audit%20SEO)
 
 ### Site web statique :
-Le site optimisé est consultable par [ici](https://www.hugohemon.fr/projet4/)
+Le site optimisé est consultable par [ici](https://davidbworld.github.io/DavidBoilon_4_03122020/)

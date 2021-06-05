@@ -6,10 +6,10 @@ Ce projet est réalisé dans le cadre du parcours **Développeur Web** d'Opencla
 ![homepage](https://github.com/DavidBworld/DavidBoilon_4_03122020/blob/main/img/la-chouette-agence.png)
 
 ### Documentations
-* [Maquette READYMADE du site à optimiser](docs/Starting+website.zip)
+* [Maquette du site à optimiser](https://github.com/DavidBworld/DavidBoilon_4_03122020/tree/main)
 
-### Technologies utilisées
-Sans objet
+### Le projet
+Le projet se situe sur la branche correction [ici] (https://github.com/DavidBworld/DavidBoilon_4_03122020/tree/correction)
 
 ### Objectifs de la mission
  * Scénario
@@ -39,7 +39,7 @@ Sans objet
  * Optimiser le référencement d'un site web
 
 ### Résultat de l'audit :
-Les résultats sont consultables [ici](https://github.com/DavidBworld/DavidBoilon_4_03122020/tree/main/Audit%20SEO)
+Les résultats sont consultables [ici](https://github.com/DavidBworld/DavidBoilon_4_03122020/blob/correction/Rapport/analyse.xlsx)
 
 ### Site web statique :
 Le site optimisé est consultable par [ici](https://davidbworld.github.io/DavidBoilon_4_03122020/)
